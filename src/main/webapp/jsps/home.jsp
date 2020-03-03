@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>MithunTechnologies- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<link href="images" rel="icon">
 </head>
 </head>
 <body>
@@ -15,7 +15,6 @@
 <div style="text-align: center;">
 	<span>
 		<img src="images" alt="" width="100">
-		<img src="smiley.gif" alt="Smiley face">
 	</span>
 	<span style="font-weight: bold;">
 		MMSl Soft Techs, 
@@ -23,7 +22,7 @@
 		Canada,
 		+015-949-50-7577.
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to MMSL Technologies</a>
+		<a href="mailto:devopstrainfree@gmail.com">Mail to MMSL Technologies</a>
 	</span>
 </div>
 <hr>
@@ -31,7 +30,7 @@
 <hr>
 <hr>
 <p align=center>MMSL Soft Techs.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
+<p align=center><small>Copyrights 2019 by <a href="http://doctorofpharmacy.info/">Mithun Technologies</a> </small></p>
 
 </body>
 </html>
