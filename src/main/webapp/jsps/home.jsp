@@ -22,14 +22,14 @@
 		Canada,
 		+015-949-50-7577.
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:devopstrainingblr@gmail.com">Mail to MMSL Technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
+<p align=center>MMSL Soft Techs.</p>
 <p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
 
 </body>
