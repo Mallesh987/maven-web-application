@@ -17,12 +17,12 @@
 		<img src="images" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		MMSl Soft Techs, 
+		MMSl Tech Solutions, 
 		Oxylus Center,
 		Canada,
 		+015-949-50-7577.
 		<br>
-		<a href="mailto:devopstrainfree@gmail.com">Mail to MMSL Technologies</a>
+		<a href="mailto:devopstrainfree@gmail.com">Mail to MMSL Tech Solutions</a>
 	</span>
 </div>
 <hr>
@@ -30,7 +30,7 @@
 <hr>
 <hr>
 <p align=center>MMSL Soft Techs.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://doctorofpharmacy.info/">Mithun Technologies</a> </small></p>
+<p align=center><small>Copyrights 2020 by <a href="http://doctorofpharmacy.info/">MMSL Tech Solutions</a> </small></p>
 
 </body>
 </html>
