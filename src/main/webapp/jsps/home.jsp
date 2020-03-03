@@ -14,7 +14,7 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="images" alt="" width="100">
 		<img src="smiley.gif" alt="Smiley face">
 	</span>
 	<span style="font-weight: bold;">
