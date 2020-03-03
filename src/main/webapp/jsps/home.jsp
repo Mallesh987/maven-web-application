@@ -17,7 +17,7 @@
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		MMSl Soft Techs..., 
+		MMSl Soft Techs, 
 		Oxylus Center,
 		Canada,
 		+015-949-50-7577.
